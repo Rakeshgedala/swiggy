@@ -1,28 +1,28 @@
 
-/* Remove all margins */
+
 * {
     margin: 0;
    
 }
 .navbar {
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Add shadow */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
 }
 
 .navbar-brand img {
-    max-width: 150px; /* Limit the width of the logo */
+    max-width: 150px; 
 }
 
 .navbar-nav .nav-link {
-    color: #333; /* Set text color */
-    font-weight: bold; /* Make text bold */
+    color: #333; 
+    font-weight: bold; 
 }
 
 .navbar-nav .nav-link:hover {
-    color: #007bff; /* Change text color on hover */
+    color: #007bff; 
 }
 
 .navbar-toggler {
-    border: none; /* Remove border from the toggler button */
+    border: none; 
 }
 
 .navbar {
@@ -151,66 +151,65 @@
 }
     
 .footer {
-    background-color:black; /* Set background color */
-    color: white; /* Set text color */
-    padding: 50px 0; /* Add padding */
+    background-color:black; 
+    color: white; 
+    padding: 50px 0; 
 }
-.footer 
+
 .footer h5 {
-    color:whitesmoke; /* Set heading color */
+    color:whitesmoke; 
     margin-bottom: 20px;
-    font-weight: bold; /* Add bottom margin to headings */
+    font-weight: bold; 
 }
 
 .footer ul li {
-    margin-bottom: 10px; /* Add bottom margin to list items */
+    margin-bottom: 10px; 
 }
 
 .footer ul li a {
-    color: #6c757d; /* Set link color */
-    text-decoration: none; /* Remove underline */
-    transition: color 0.3s; /* Add transition effect for color */
+    color: #6c757d;
+    text-decoration: none; 
+    transition: color 0.3s; 
 }
 
 .footer ul li a:hover {
-    color: whitesmoke; /* Change color on hover */
+    color: whitesmoke;
 }
 
 .footer p {
-    margin-bottom: 10px; /* Add bottom margin to paragraphs */
+    margin-bottom: 10px; 
 }
 .col-md-3 {
-    padding-top: 4rem; /* Add top padding */
-    text-align: center; /* Center align content */
+    padding-top: 4rem; 
+    text-align: center;
 }
 
 .card1 {
-    max-width: 50%; /* Ensure image fits container width */
-    height: auto; /* Maintain aspect ratio */
+    max-width: 50%; 
+    height: auto;
 }
 
 .pt-4 {
     margin-top: 2.0rem; 
-    color: #6c757d; /* Set text color */
-    font-size: 0.9rem; /* Adjust font size */
-    line-height: 1.5; /* Set line height */
+    color: #6c757d; 
+    font-size: 0.9rem; 
+    line-height: 1.5; 
 }
-/* Center the text within the column */
+
 .text-center {
     text-align: center;
 }
 
-/* Add top margin to the food images */
+
 .food3 {
     margin-top: 1rem;
 }
 
-/* Ensure images take up the full width of their containers */
-/* Ensure images take up the full width of their containers */
+
 .menu-item-image1 {
     width: 100%;
     max-width: 200px; 
-    height: 25%; /* Maintain aspect ratio */
+    height: 25%; 
 }
 .better{
     -webkit-font-smoothing: antialiased;
